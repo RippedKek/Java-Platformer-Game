@@ -39,7 +39,7 @@ Mystic Veil is a Java AWT-based 2D platformer game that offers an immersive gami
 To modify the game in Eclipse, follow these instructions:
 
 1. Add the project to Eclipse.
-2. Add the `src` folder as a source folder.
+2. Add the `Sprites` folder as a source folder.
 3. Explore the different packages, each controlling its respective aspect of the game.
 
 ## Contributing
