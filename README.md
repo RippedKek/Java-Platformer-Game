@@ -9,7 +9,6 @@ Mystic Veil is a 2D platformer game made with Java AWT. It offers a linear gamep
 - [Controls](#controls)
 - [Modification Instructions](#modification-instructions)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -47,7 +46,4 @@ To modify the game in Eclipse, follow these instructions:
 
 Contributions to Mystic Veil are welcome! If you have any ideas for improvements, new features, or bug fixes, feel free to submit a pull request. Please follow the contribution guidelines outlined in the repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
 
